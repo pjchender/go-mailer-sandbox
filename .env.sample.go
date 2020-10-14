@@ -1,0 +1,2 @@
+KEY=foo
+EMAIL_PASSWORD=bar
